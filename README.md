@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 
 [![TimothyHay's GitHub stats](https://github-readme-stats.vercel.app/api?username=timothyhay&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/timothyhay)
 
+- Actually I used Java a lot when I was a Software Engineering student.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timothyhay&layout=compact&theme=tokyonight)](https://github.com/timothyhay)
