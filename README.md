@@ -24,7 +24,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=9cf)
 ![MicrosoftSQLServer](https://img.shields.io/badge/-Microsoft_SQL_Server-192133?style=flat-square&logo=Microsoft-SQL-Server&logoColor=9cf)
 
-- ☕ Actually I used Java a lot when I was a Software Engineering student, incluing J2EE stuff like Hadoop, JSP/Servlet and framework like SSH. 
+- ☕ Actually used Java a lot when I was a Software Engineering student, incluing J2EE stuff like Hadoop, JSP/Servlet and framework like SSH. 
 - 🐍 But now almost everyday Python as an AI guy. Learning TensorFlow and PyTorch!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timothyhay&layout=compact&theme=tokyonight)](https://github.com/timothyhay)
