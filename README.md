@@ -2,6 +2,7 @@
 
 
 - 📚 Struggling with endless assignments as a MSc Computer Science student @NUS !
+- 💼 Focusing on LDA/NLP! Working part-time as a NLP-AD team member @AIDF.
 - 🎡 Really love travelling! But currently have no chance.. hope this world could get well soon😶
 - 📘 May take a peek at my [Travel Journal](https://world.tangerinesoda.fun/) if you are interseted. Now it is more likely to be my secret base.
 
