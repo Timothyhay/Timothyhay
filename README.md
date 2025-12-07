@@ -27,7 +27,7 @@
 ![Cassandra](https://img.shields.io/badge/-Cassandra-192133?style=flat-square&logo=apachecassandra&logoColor=9cf)
 ![PyTorch](https://img.shields.io/badge/-Pytorch-192133?style=flat-square&logo=pytorch&logoColor=9cf)
 
-- ☕ Actually used Java a lot when I was a Software Engineering student, incluing J2EE stuff like Hadoop, JSP/Servlet and web framework like SSM. 
-- 🐍 But now almost everyday Python as an AI guy. Learning TensorFlow and PyTorch! Also working on web crawlers building, Flask project like servers' load balancing and some big/small data related stuffs with PySpark, PyMongoDB etc..
+- ☕ Actually used Java a lot when I was a Software Engineering student, incluing Hadoop and web framework like SSM. 
+- 🐍 But now almost everyday Python as an AI guy. Working on data science and machine learning, mainly with PyTorch! Also dealing with web crawlers building, Flask project like servers' load balancing and some big/small data related stuffs with PySpark, PyMongoDB etc..
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timothyhay&layout=compact&theme=tokyonight)](https://github.com/timothyhay)
