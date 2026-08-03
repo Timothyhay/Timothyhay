@@ -2,6 +2,7 @@
 
 - 💼 Now juggling R&D field LLM/Agent research.
 - ✈️ **Wanderlust at heart!** Always daydreaming about my next travel destination 🌍
+- 🧋 Powered by endless bubble tea, curiosity, and shoegazing music!
 - 📘 Feel free to peek at my [Travel Journal](https://world.tangerinesoda.fun/) — it's low-key turned into my cozy digital secret base ✨
 
 ---
@@ -41,16 +42,20 @@ My daily work revolves around **LLM post-training** and building **collaborative
 
 
 ---
+
 ### GitHub Activity 
 
+After everything I've been through, still love writing code:
+
 <p align="center">
+  <img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Repos per Language" height="195" />
   <a href="https://github.com/timothyhay">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=timothyhay&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=timothyhay&theme=nord" alt="GitHub Streak" height="195" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/timothyhay">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=timothyhay&theme=tokyo-night" alt="Activity Graph" />
+    <img src="./profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile Details" />
   </a>
 </p>
