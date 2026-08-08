@@ -40,10 +40,24 @@ My daily work revolves around **LLM post-training** and building **collaborative
 ![Jekyll](https://img.shields.io/badge/-Jekyll-192133?style=flat-square&logo=Jekyll&logoColor=9cf)
 ![Qt](https://img.shields.io/badge/-Qt-192133?style=flat-square&logo=Qt&logoColor=9cf)
 
-
 ---
 
 ### GitHub Activity 
+
+**Now playing with:**
+
+#### 🐋 WhalePod — Context Engineering for Long-Context Coding Agents
+
+A CLI coding agent exploring how to make long-context models actually useful.
+
+Instead of stuffing millions of tokens into prompts, WhalePod builds a stable context layer with:
+- lightweight repo understanding
+- context ledger for incremental retrieval
+- prefix-cache aware architecture (94%+ prefix cache hit rate in real coding sessions)
+
+Designed for DeepSeek-scale 1M context models and beyond. [Explore WhalePod →](https://github.com/Timothyhay/whale-pod)
+
+---
 
 After everything I've been through, still love writing code:
 
