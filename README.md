@@ -55,6 +55,8 @@ Instead of stuffing millions of tokens into prompts, WhalePod builds a stable co
 
 Designed for DeepSeek-scale 1M context models and beyond. [Explore WhalePod →](https://github.com/Timothyhay/whale-pod)
 
+---
+
 ### GitHub Activity 
 
 After everything I've been through, still love writing code:
