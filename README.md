@@ -42,13 +42,11 @@ My daily work revolves around **LLM post-training** and building **collaborative
 
 ---
 
-### GitHub Activity 
-
-**Now playing with:**
+### Currently exploring ...
 
 #### 🐋 WhalePod — Context Engineering for Long-Context Coding Agents
 
-A CLI coding agent exploring how to make long-context models actually useful.
+A research-oriented coding agent exploring context engineering for long-context models.
 
 Instead of stuffing millions of tokens into prompts, WhalePod builds a stable context layer with:
 - lightweight repo understanding
@@ -57,7 +55,7 @@ Instead of stuffing millions of tokens into prompts, WhalePod builds a stable co
 
 Designed for DeepSeek-scale 1M context models and beyond. [Explore WhalePod →](https://github.com/Timothyhay/whale-pod)
 
----
+### GitHub Activity 
 
 After everything I've been through, still love writing code:
 
