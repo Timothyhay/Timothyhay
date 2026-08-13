@@ -13,8 +13,6 @@ My daily work revolves around **LLM post-training** and building **collaborative
 
 **Recent Focus:** `Agentic RL` • `On/Off-policy Distillation`
 
-**Skills:**
-
 #### ⚡ LLM & Agent Infra
   
 ![Ray](https://img.shields.io/badge/-Ray-192133?style=flat-square&logo=ray&logoColor=9cf)
