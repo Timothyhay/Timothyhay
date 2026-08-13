@@ -51,7 +51,7 @@ A research-oriented coding agent exploring context engineering for long-context 
 Instead of stuffing millions of tokens into prompts, WhalePod builds a stable context layer with:
 - lightweight repo understanding
 - context ledger for incremental retrieval
-- prefix-cache aware architecture (**94%+ prefix cache hit rate** in real coding sessions)
+- prefix-cache aware architecture (**97%+ prefix cache hit rate** in real coding sessions)
 
 Designed for DeepSeek-scale 1M context models and beyond. [Explore WhalePod →](https://github.com/Timothyhay/whale-pod)
 
