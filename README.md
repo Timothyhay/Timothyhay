@@ -64,7 +64,7 @@ After everything I've been through, still love writing code:
 <p align="center">
   <img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Repos per Language" height="195" />
   <a href="https://github.com/timothyhay">
-    <img src="https://streak-stats.demolab.com/?user=timothyhay&theme=nord" alt="GitHub Streak" height="195" />
+    <img src="./profile/streak.svg" alt="GitHub Streak" height="195" />
   </a>
 </p>
 
