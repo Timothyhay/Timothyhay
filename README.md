@@ -7,7 +7,7 @@
 
 ---
 
-### What I'm playing with...
+### What I'm playing with ...
 
 My daily work revolves around **LLM post-training** and building **collaborative agents** -
 
