@@ -27,7 +27,8 @@ My daily work revolves around **LLM post-training** and building **collaborative
 ![PyTorch](https://img.shields.io/badge/-PyTorch-192133?style=flat-square&logo=pytorch&logoColor=9cf)
 
 #### 🧰 Other Tech Stack & Past Work
-  
+
+![Elastic Search](https://img.shields.io/badge/-ElasticSearch-192133?style=flat-square&logo=elasticsearch&logoColor=9cf)
 ![Apache Spark](https://img.shields.io/badge/-Spark-192133?style=flat-square&logo=Apache-Spark&logoColor=9cf)
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=Java&logoColor=9cf)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-192133?style=flat-square&logo=Mathworks&logoColor=9cf)
